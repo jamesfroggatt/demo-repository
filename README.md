@@ -5,3 +5,6 @@ This will be a description of what this project is about
 ## A H2 header
 
 This header has been created in my README.md file in VSCode
+
+<H2>This is a change in the code that I'll call modification1 for the moment.
+It's also the name of the feature branch I'm working on</H2>
